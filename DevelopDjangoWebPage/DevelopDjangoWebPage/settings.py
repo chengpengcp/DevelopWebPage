@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # add User apps  here to enable there
+    'HelloworldDjangoApp'
 ]
 
 MIDDLEWARE_CLASSES = [
