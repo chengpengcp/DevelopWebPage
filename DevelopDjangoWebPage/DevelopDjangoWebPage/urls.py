@@ -9,4 +9,5 @@ import HelloworldDjangoApp.views
 urlpatterns = [
     url(r'^$', HelloworldDjangoApp.views.index, name='index'),
     url(r'^home$', HelloworldDjangoApp.views.index, name='home'),
+    url(r'^about$', HelloworldDjangoApp.views.about, name='about'),
 ]

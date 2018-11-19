@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HelloworldDjangoApp\static\site.css" />
+    <Content Include="HelloworldDjangoApp\templates\HelloworldDjangoApp\about.html" />
     <Content Include="HelloworldDjangoApp\templates\HelloworldDjangoApp\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
