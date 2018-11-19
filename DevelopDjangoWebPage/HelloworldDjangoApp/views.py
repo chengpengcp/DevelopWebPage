@@ -18,7 +18,7 @@ def index(request) :
         # "index.html", # Use this code for VS 2017 15.7 and earlier
         {
             'title' : "Helloworld Django App", 
-            'massage' : "Helloworld Django",
+            'massage' : "Helloworld",
             'content' : " on " + now.strftime("%A, %d %B, %Y at %X")
         }
     )
